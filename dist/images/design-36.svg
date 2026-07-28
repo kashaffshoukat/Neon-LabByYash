@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
-  <defs><radialGradient id="bg" cx="50%" cy="50%" r="75%"><stop offset="0%" stop-color="#15151f"/><stop offset="100%" stop-color="#0a0a0f"/></radialGradient></defs>
-  <rect width="600" height="600" fill="url(#bg)"/>
-  <g style="filter: drop-shadow(0 0 5.6px #39ff14) drop-shadow(0 0 15.399999999999999px #39ff14) drop-shadow(0 0 26.599999999999998px #39ff14);"><path d="M300 460 L300 280" fill="none" stroke="#39ff14" stroke-width="6"/><path d="M300 280 C 240 240 200 260 180 240 M300 280 C 360 240 400 260 420 240 M300 280 C 280 220 280 180 290 160 M300 280 C 320 220 320 180 310 160 M300 280 C 260 260 220 280 200 280" fill="none" stroke="#39ff14" stroke-width="4" stroke-linecap="round"/></g>
-</svg>

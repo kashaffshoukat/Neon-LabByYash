@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
-  <defs><radialGradient id="bg" cx="50%" cy="50%" r="75%"><stop offset="0%" stop-color="#15151f"/><stop offset="100%" stop-color="#0a0a0f"/></radialGradient></defs>
-  <rect width="600" height="600" fill="url(#bg)"/>
-  
-    <text x="300" y="330" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="110" font-style="italic" font-weight="900" fill="none" stroke="#b026ff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" style="filter: drop-shadow(0 0 4.8px #b026ff) drop-shadow(0 0 13.2px #b026ff) drop-shadow(0 0 22.8px #b026ff);">LOUNGE</text>
-    <text x="300" y="330" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="110" font-style="italic" font-weight="900" fill="none" stroke="#fff" stroke-width="0.6" stroke-opacity="0.85" style="filter: drop-shadow(0 0 1.6px #fff) drop-shadow(0 0 4.4px #fff) drop-shadow(0 0 7.6000000000000005px #fff);">LOUNGE</text>
-</svg>
